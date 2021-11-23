@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 for _ in range(10):
-    print("This is me from main branch")
+    if j%2==0:
+        print("This is {} from conflict1 and main branch")
